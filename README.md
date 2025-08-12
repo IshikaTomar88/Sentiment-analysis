@@ -56,8 +56,8 @@ The aim is to demonstrate how machine learning can be applied to real-world soci
 * Accuracy: 57%
 *  precision    recall  f1-score   support
 
- - Irrelevant       0.56      0.38      0.46     10392
- -  Negative        0.66      0.70      0.68     18033
- -   Neutral        0.51      0.57      0.54     14654
- -   Positive       0.61      0.64      0.63     16665
+ - Irrelevant     -  0.56      0.38      0.46     10392
+ -  Negative      -  0.66      0.70      0.68     18033
+ -   Neutral      -  0.51      0.57      0.54     14654
+ -   Positive     -  0.61      0.64      0.63     16665
 
