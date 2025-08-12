@@ -1,7 +1,7 @@
 # 🐦 Twitter Sentiment Analysis
 Logistic Regression + TF-IDF for Tweet Classification
 
-![Uploading Twitter Sentiment Analysis Header Design.png…]()
+<img width="1536" height="1024" alt="Twitter Sentiment Analysis Header Design" src="https://github.com/user-attachments/assets/b74a4ee4-2d9d-45cc-a742-57cdc9afaa93" />
 
 
 "End-to-end Twitter Sentiment Analysis using Logistic Regression & TF-IDF — from raw tweets to accurate sentiment predictions."
