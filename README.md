@@ -53,9 +53,11 @@ The aim is to demonstrate how machine learning can be applied to real-world soci
 * Predict sentiment for new tweets.
 
 # Model Performance
-* Accuracy: 89%
-* Precision: 88%
-* Recall: 87%
-* F1-Score: 87%
+* Accuracy: 57%
+*  precision    recall  f1-score   support
 
+ - Irrelevant       0.56      0.38      0.46     10392
+ -  Negative        0.66      0.70      0.68     18033
+ -   Neutral        0.51      0.57      0.54     14654
+ -   Positive       0.61      0.64      0.63     16665
 
